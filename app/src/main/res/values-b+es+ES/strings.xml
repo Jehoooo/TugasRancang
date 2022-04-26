@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TR</string>
+    <string name="name">Colección de tendencias</string>
+    <string name="namee">Colección Superior</string>
+    <string name="detail">Acerca de</string>
+    <string name="detaill">Mono es un nombre común que puede referirse a la mayoría de los mamíferos del infraorden Simiiformes, también conocidos como simios. Tradicionalmente, todos los animales del grupo ahora conocido como simios se cuentan como monos excepto los simios, un grupo conocido como parafilético; sin embargo, en el sentido más amplio basado en la cladística, también se incluyen los simios (Hominoidea), lo que hace que los términos monos y simios sean sinónimos en cuanto a su alcance. Los monos se dividen en las familias de monos del Nuevo Mundo (Platyrrhini) y monos del Viejo Mundo (Cercopithecidae en sentido estricto; Catarrhini en sentido amplio, que nuevamente incluye a los simios).</string>
+    <string name="button">Ver en S NFT</string>
+    <string name="history">Historia</string>
+    <string name="item">2 Artículos</string>
+    <string name="balance">Equilibrio</string>
+    <string name="upload">Subir</string>
+    <string name="fullname">Nombre completo</string>
+    <string name="email">Correo electrónico</string>
+    <string name="phone">Número de teléfono</string>
+
+</resources>
